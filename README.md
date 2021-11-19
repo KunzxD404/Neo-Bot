@@ -2,7 +2,7 @@
 
 ## FOR DEPLOY HEROKU USER
 
-<p><a href="https://heroku.com/deploy?template="https://github.com/KunzxD404/KxD"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
+<p><a href="https://heroku.com/deploy?template="https://github.com/KunzxD404/Neo-Bot"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
 
 ## `ADD BUILDPACK` 
 ``` 
